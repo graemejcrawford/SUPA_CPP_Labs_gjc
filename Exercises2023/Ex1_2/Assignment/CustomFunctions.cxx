@@ -1,0 +1,3 @@
+int cubeNumber(int x){
+    return x*x*x;
+}
