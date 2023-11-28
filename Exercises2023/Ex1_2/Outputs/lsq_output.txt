@@ -1,0 +1,2 @@
+Least squares fit is y = 0.126266x + 2.02628
+Chi squared value is: 34401.9
