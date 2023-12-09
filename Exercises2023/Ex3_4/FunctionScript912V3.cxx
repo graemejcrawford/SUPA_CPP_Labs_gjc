@@ -64,7 +64,7 @@ int main(){
     myFunction.plotData(plotValues, 100, true);
     myFunction.Sampling();
     myFunction.printInfo();
-  
+
 
 
     normalDistribution myNormalDistribution;

@@ -1,3 +1,8 @@
+// Author: Graeme Crawford
+// Date: 9/12/23
+// Finite Functions for the plotting of functions and sampling
+
+
 #include <iostream>
 #include <string>
 #include <vector>

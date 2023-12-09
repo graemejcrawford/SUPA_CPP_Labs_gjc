@@ -1,3 +1,7 @@
+// Author: Graeme Crawford
+// Date: 9/12/23
+// Header File for the plotting of functions and sampling
+
 #include <string>
 #include <vector>
 #include "gnuplot-iostream.h"
